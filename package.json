@@ -1,6 +1,6 @@
 {
   "name": "http-gaslight",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Express middleware that inverts HTTP status code semantics.",
   "main": "index.js",
   "scripts": {
