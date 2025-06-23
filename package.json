@@ -1,0 +1,20 @@
+{
+  "name": "http-gaslight",
+  "version": "1.0.0",
+  "description": "Express middleware that inverts HTTP status code semantics.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node example/server.js"
+  },
+  "keywords": [
+    "http",
+    "express",
+    "middleware",
+    "status",
+    "opposite",
+    "joke",
+    "inverted"
+  ],
+  "author": "njm25",
+  "license": "MIT"
+}
