@@ -12,10 +12,10 @@ Example usage:
 
 ```js
 const express = require('express');
-const { httpGaslight } = require('http-gaslight');
+const { gaslight } = require('http-gaslight');
 
 const app = express();
-app.use(httpGaslight());
+app.use(gaslight());
 
 app.get('/', (req, res) => {
 	res.status(200).send('Everything is fine'); // Actually sends 500
